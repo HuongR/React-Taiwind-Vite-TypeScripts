@@ -1,0 +1,14 @@
+# Bỏ qua thư mục Visual Studio
+.vs/
+
+# Bỏ qua thư mục bin và obj
+**/bin/
+**/obj/
+
+# Bỏ qua thư mục publish
+**/publish/
+
+# Bỏ các tệp tạm thời
+*.user
+*.suo
+*.vsidx
